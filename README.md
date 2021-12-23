@@ -1,4 +1,4 @@
-### Oi! Eu sou a Tam Minosso! 👋
+### Hi! I'm Minossotam, a web developer in progress! 😊
 
 
 
