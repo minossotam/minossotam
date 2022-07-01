@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m learning CSS, HTML and JavaScript
+- 🌱 I’m learning CSS, HTML, JavaScript and React
 - 🤔 I’m looking for tips on these languages and opnions on what I could do better
 - ⚡ Fun fact: My cat, Costelinha, loves the smell of coffee 😋😋
 
