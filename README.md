@@ -2,9 +2,9 @@
 
 
 
-- 🌱 I’m learning CSS, HTML, JavaScript and React
+- 🌱 I’m learning CSS, HTML, JavaScript, React, Node, Java, AWS Cloud and DevOps
 - 🤔 I’m looking for tips on these languages and opnions on what I could do better
-- ⚡ Fun fact: My cat, Costelinha, loves the smell of coffee 😋😋
+- ⚡ Fun fact: I already did executive production of shows and events, stage assembly. I love to put my hands on and making it happen! 😁
 
 <div align="center">
   <a href="https://github.com/minossotam">
